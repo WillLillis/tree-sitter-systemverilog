@@ -7856,10 +7856,6 @@
             ]
           },
           {
-            "type": "SYMBOL",
-            "name": "_incomplete_class_scoped_type"
-          },
-          {
             "type": "STRING",
             "value": "::"
           },
